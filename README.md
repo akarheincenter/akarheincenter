@@ -1,7 +1,7 @@
 - 👋 Hi, We are Akagera Rhein Center
 - 👀 We are interested in German language teaching.
-- 🌱 I’m currently learning and teaching ...
-- 💞️ I’m looking for collaboration
+- 🌱 We are currently learning and teaching ...
+- 💞️ We are looking for collaboration
 - 📫 How to reach us ...
 
 <!---
